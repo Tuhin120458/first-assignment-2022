@@ -1,0 +1,25 @@
+.yellow-color{
+    color: darkorange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+    padding-right: 70%;
+    
+}
+.web-develop{
+    display: flex;
+    margin-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, orange);
+    background-color: rgb(255, 166, 0);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5%;
+    font-weight: 700px;
+}
